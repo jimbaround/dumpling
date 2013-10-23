@@ -1,4 +1,4 @@
 dumpling
 ========
 
-Instructions / Archives / Stuff
+See wiki: <https://github.com/lancevo/dumpling/wiki/_pages>
